@@ -36,7 +36,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <a href="https://www.twitch.tv/luquezaki"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/twitch.png" width="16"></img></a> [Twitch](https://www.twitch.tv/luquezaki)  
 
-<a href="mailto:andersonlucaspz@gmail.com"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/email.png" width="16"></img></a> [Email](mailto:andersonlucaspz@gmail.com)  
+<a href="mailto:andersonlucaspz@gmail.com"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/gmail.png" width="16"></img></a> [Email](mailto:andersonlucaspz@gmail.com)  
 
 ---  
 
