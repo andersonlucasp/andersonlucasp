@@ -26,7 +26,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ---
 
-Onde me encontrar? :mag:  
+### Find me elsewhere :mag: 🌎 
 
 <a href="https://twitter.com/luquezaki"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/luquezaki)   
 
