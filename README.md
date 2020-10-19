@@ -1,36 +1,43 @@
 
+![capa github](https://github.com/andersonlucasp/andersonlucasp/blob/main/images/Capa_github.png)  
+
+
 <center>
-<table>
+  <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlucasp&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=andersonlucasp&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiadasilva&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=leticiadasilva&theme=buefy"/></td>
     </tr>   
-</table>
+  </table>
 </center>  
 
-### Hi there 👋
+### Olá! Boas vindas :) <img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/Hi.gif" width="30px">
 
-My Name is Anderson Lucas de Paiva
+---
 
-I'm a Developer Analist, that has been working as a FulLStack developer since 2020.
+Sou Cientista de Dados, atuo na área desde 2017 (e desde 2005 estudando informática :scream:) e sou graduanda em Ciência da Computação. Escrevo no [dev.to](https://dev.to/dii_lua), [Medium](https://medium.com/@dii_lua), e no meu [blog](https://leticiadasilva.github.io/) pessoal.  
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+Amo dançar :dancer:, ler :books: e ir a karaokês :microphone:  
+Sou mãe de duas gatinhas, a Ruby e a Banguela :cat2:  
 
-![](https://komarev.com/ghpvc/?username=andersonlucasp&color=blue&style=flat
+---
 
+Sou Developer Student Club Lead ([DSC](https://dsc.community.dev/universidade-paulista/), da Google), organizadora do [Django Girls](https://www.instagram.com/djangogirlssjc/), [PyLadies](https://www.instagram.com/pyladiessjc/), GruPy, [Women Techmakers](https://www.instagram.com/wtmsjc/) e [GDG](https://www.instagram.com/gdgsjc/) de São José dos Campos.  
 
+Luto para incentivar pessoas, principalmente mulheres, a entrarem em TI, acreditarem em si mesmas e mostrar que programar transforma vidas! :revolving_hearts:   
 
-<!--
-**andersonlucasp/andersonlucasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Onde me encontrar? :mag:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/dii_lua"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/dii_lua)   
+
+<a href="https://www.instagram.com/dii_lua/"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/dii_lua)  
+
+<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/leticiasilvar)  
+
+<a href="mailto:leticiadasilva.contato@gmail.com"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/email.png" width="16"></img></a> [Email](mailto:leticiadasilva.contato@gmail.com)  
+
+---  
+
+![](https://komarev.com/ghpvc/?username=andersonlucasp&color=blue&style=flat)
