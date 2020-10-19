@@ -11,10 +11,10 @@
   </table>
 </center>  
 
-### Olá! Boas vindas :) <img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/Hi.gif" width="30px">
+### Hello! Welcome :) <img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/Hi.gif" width="30px">
 
 ---
-My Name is Anderson Lucas de Paiva
+My Name is Anderson Lucas de Paiva 🇧🇷
 
 I am a Fullstack Developer, I work in the area since 2020 and I have a degree in Analysis and Systems Development.
 
