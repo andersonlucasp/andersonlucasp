@@ -5,8 +5,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiadasilva&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=leticiadasilva&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlucasp&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=andersonlucasp&theme=buefy"/></td>
     </tr>   
   </table>
 </center>  
@@ -14,17 +14,14 @@
 ### Olá! Boas vindas :) <img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/Hi.gif" width="30px">
 
 ---
+My Name is Anderson Lucas de Paiva
 
-Sou Cientista de Dados, atuo na área desde 2017 (e desde 2005 estudando informática :scream:) e sou graduanda em Ciência da Computação. Escrevo no [dev.to](https://dev.to/dii_lua), [Medium](https://medium.com/@dii_lua), e no meu [blog](https://leticiadasilva.github.io/) pessoal.  
+Sou Desenvolvedor Fullstack, atuo na área desde 2020 e sou graduado em Análise e Desenvolvimento de Sistemas.  
 
-Amo dançar :dancer:, ler :books: e ir a karaokês :microphone:  
-Sou mãe de duas gatinhas, a Ruby e a Banguela :cat2:  
-
+Gosto de jogar :notebook:, ler :books:, tocar violão :guitar:, e cantar :microphone:  
 ---
 
-Sou Developer Student Club Lead ([DSC](https://dsc.community.dev/universidade-paulista/), da Google), organizadora do [Django Girls](https://www.instagram.com/djangogirlssjc/), [PyLadies](https://www.instagram.com/pyladiessjc/), GruPy, [Women Techmakers](https://www.instagram.com/wtmsjc/) e [GDG](https://www.instagram.com/gdgsjc/) de São José dos Campos.  
-
-Luto para incentivar pessoas, principalmente mulheres, a entrarem em TI, acreditarem em si mesmas e mostrar que programar transforma vidas! :revolving_hearts:   
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 ---
 
