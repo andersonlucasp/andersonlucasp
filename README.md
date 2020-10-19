@@ -16,9 +16,9 @@
 ---
 My Name is Anderson Lucas de Paiva
 
-Sou Desenvolvedor Fullstack, atuo na área desde 2020 e sou graduado em Análise e Desenvolvimento de Sistemas.  
+I am a Fullstack Developer, I work in the area since 2020 and I have a degree in Analysis and Systems Development.
 
-Gosto de jogar :notebook:, ler :books:, tocar violão :guitar:, e cantar :microphone:  
+Gosto de jogar :videogame:, ler :books:, tocar violão :guitar:, e cantar :microphone:  
 ---
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
