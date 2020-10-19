@@ -1,5 +1,5 @@
 
-![capa github](https://github.com/andersonlucasp/andersonlucasp/blob/main/images/Capa_github.png)  
+![capa github](https://github.com/andersonlucasp/andersonlucasp/blob/main/images/Capa_github.jpg)  
 
 
 <center>
@@ -18,7 +18,7 @@ My Name is Anderson Lucas de Paiva
 
 I am a Fullstack Developer, I work in the area since 2020 and I have a degree in Analysis and Systems Development.
 
-Gosto de jogar :joysticks:, ler :books:, tocar violão :guitar:, e cantar :microphone: 
+I like to play video games 🎮, read  :books:, play guitar :guitar:, and sing :microphone: 
  
 ---
 
@@ -28,13 +28,13 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 Onde me encontrar? :mag:  
 
-<a href="https://twitter.com/dii_lua"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/dii_lua)   
+<a href="https://twitter.com/luquezaki"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/luquezaki)   
 
-<a href="https://www.instagram.com/dii_lua/"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/dii_lua)  
+<a href="https://www.instagram.com/luquezaki/"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/luquezaki)  
 
-<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/leticiasilvar)  
+<a href="https://www.linkedin.com/in/andersonlucasp"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/andersonlucasp)  
 
-<a href="mailto:leticiadasilva.contato@gmail.com"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/email.png" width="16"></img></a> [Email](mailto:leticiadasilva.contato@gmail.com)  
+<a href="mailto:andersonlucaspz@gmail.com"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/email.png" width="16"></img></a> [Email](mailto:andersonlucaspz@gmail.com)  
 
 ---  
 
