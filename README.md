@@ -14,7 +14,7 @@
 ### Hello! Welcome :) <img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/Hi.gif" width="30px">
 
 ---
-My Name is Anderson Lucas de Paiva :🇧🇷:
+My Name is Anderson Lucas de Paiva <img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/brazil.png" width="16"></img>
 
 I am a Fullstack Developer, I work in the area since 2020 and I have a degree in Analysis and Systems Development.
 
@@ -32,7 +32,9 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <a href="https://www.instagram.com/luquezaki/"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/luquezaki)  
 
-<a href="https://www.linkedin.com/in/andersonlucasp"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/andersonlucasp)  
+<a href="https://www.linkedin.com/in/andersonlucasp"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/andersonlucasp)
+
+<a href="https://www.twitch.tv/luquezaki"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/twitch.png" width="16"></img></a> [Twitch](https://www.twitch.tv/luquezaki)  
 
 <a href="mailto:andersonlucaspz@gmail.com"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/email.png" width="16"></img></a> [Email](mailto:andersonlucaspz@gmail.com)  
 
