@@ -1,5 +1,5 @@
 
-![capa github](https://github.com/andersonlucasp/andersonlucasp/blob/main/images/Capa_github.jpg)  
+![capa github](https://github.com/andersonlucasp/andersonlucasp/blob/main/images/Capa_github.png)  
 
 
 <center>
