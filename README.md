@@ -6,6 +6,7 @@
   <table>
     <tr>
         <td><img width="515px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlucasp&hide=html&layout=compact&theme=buefy" /></td>
+      <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlucasp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</td>
         <td><img width="515px" align="left" src="https://github-readme-stats.vercel.app/api?username=andersonlucasp&theme=buefy"/></td>
     </tr>   
   </table>
