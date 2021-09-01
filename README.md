@@ -28,13 +28,13 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### Find me elsewhere :mag: 🌎 
 
-<a href="https://twitter.com/luquezaki"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/luquezaki)   
+<a href="https://twitter.com/luquepaivaa"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/luquepaivaa)   
 
-<a href="https://www.instagram.com/luquezaki/"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/luquezaki)  
+<a href="https://www.instagram.com/luquepaiva/"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/luquepaiva)  
 
 <a href="https://www.linkedin.com/in/andersonlucasp"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/andersonlucasp)
 
-<a href="https://www.twitch.tv/luquezaki"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/twitch.png" width="16"></img></a> [Twitch](https://www.twitch.tv/luquezaki)  
+<a href="https://www.twitch.tv/luquezao"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/twitch.png" width="16"></img></a> [Twitch](https://www.twitch.tv/luquezao)  
 
 <a href="mailto:andersonlucaspz@gmail.com"><img src="https://github.com/andersonlucasp/andersonlucasp/blob/main/images/gmail.png" width="16"></img></a> [Email](mailto:andersonlucaspz@gmail.com)  
 
